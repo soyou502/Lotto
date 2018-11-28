@@ -53,6 +53,8 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(366, 131);
             this.textBox1.TabIndex = 1;
+            this.textBox1.Text = "로또 떡상 가즈아";
+            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // button2
             // 
@@ -83,7 +85,7 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(115, 206);
+            this.textBox3.Location = new System.Drawing.Point(115, 191);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 21);
             this.textBox3.TabIndex = 5;
